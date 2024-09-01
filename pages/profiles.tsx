@@ -34,7 +34,7 @@ const Profiles = () => {
           >
             <div className="group flex-row w-44 mx-auto">
               <div className="w-44 h-44 rounded-md flex items-center border-2 border-transparent group-hover:cursor-pointer group-hover:border-white overflow-hidden">
-                <img src="/Images/default-blue.png" alt="" />
+                <img src="/Images/icon.jpg" alt="" />
               </div>
               <div className="mt-4 text-gray-400 text-2xl text-center group-hover:text-white">
                 {user?.name}
